@@ -7,6 +7,7 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 * 🏫 Amador Valley High School
 * 🖥 Love Building PCs
 * 🦈 Ocean Lover
+* 🎮 Self-Proclaimed *pro gamer*
 
 ## Organizations
 * 🍋 Citro Tech - Director of Tech
