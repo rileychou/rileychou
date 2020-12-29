@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-I'm Riley, and I love to build things with code! 
+I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! 
 
 ## About
 * 🏫 Amador Valley High School
 * 🖥 Love Building PCs
 * 🦈 Ocean Lover
+
+## Organizations
+* 🍋 Citro Tech - Director of Tech
+* 🌊 Ocean Conservancy Club - Co-Founder/Treasurer
+* 🌱 Local Leaders of the 21st Century - Tech Officer
+* 🦖 Ace Coding Club - Instructor
 
 ## I'm Currently Learning
 * Javascript
