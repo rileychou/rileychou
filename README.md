@@ -1,3 +1,4 @@
+![Banner](/lol.png)
 ### Hi there 👋
 
 I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! 
