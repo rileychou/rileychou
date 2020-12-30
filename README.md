@@ -1,7 +1,7 @@
 ![Banner](/lol.png)
-### Hi there 👋
+### Hello! 👋
 
-I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! 
+I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! ⌨️
 
 ## About
 * 🏫 Amador Valley High School
