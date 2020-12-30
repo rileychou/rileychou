@@ -28,3 +28,4 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 * 🤵 LinkedIn: [@rileychou](https://www.linkedin.com/in/rileychou/)
 
 [![Riley Chou's github stats](https://github-readme-stats.vercel.app/api?username=rileychou&count_private=true&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact)]
