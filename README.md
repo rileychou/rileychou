@@ -1,9 +1,8 @@
 ![Banner](/lol.png)
 ### Hello! 👋
 
-I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! ⌨️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact)
-
+I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! ⌨️
 
 ## About
 * 🏫 Amador Valley High School
