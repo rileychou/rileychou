@@ -15,6 +15,11 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 * 🌱 Local Leaders of the 21st Century - Tech Officer
 * 🦖 Ace Coding Club - Instructor
 
+## Languages 
+* 🌐 HTML/CSS ⭐️⭐️⭐️⭐️
+* ☕️ Java ⭐️⭐️⭐️
+* 🐍 Python ⭐️⭐️
+
 ## I'm Currently Learning
 * Javascript
 * Arduino & hardware
@@ -22,6 +27,11 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 
 ## Current Projects
 * Citro Tech's Official Website
+* Citro Tech's Blog!
+
+## Stuff to build in the future
+* 🤖 Discord bot
+* 🐽 Personal portfolio v2
 
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
