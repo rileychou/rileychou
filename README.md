@@ -18,8 +18,8 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 ## Languages 
 * 🌐 HTML/CSS ⭐️⭐️⭐️⭐️
 * ☕️ Java ⭐️⭐️⭐️
-* 🐍 Python ⭐️⭐️ <br />
-<br />
+* 🐍 Python ⭐️⭐️ \
+\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact)
 
 ## I'm Currently Learning
