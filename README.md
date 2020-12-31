@@ -1,7 +1,6 @@
 ![Banner](/lol.png)
 ### Hello! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact)
 I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! ⌨️
 
 ## About
@@ -19,7 +18,8 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 ## Languages 
 * 🌐 HTML/CSS ⭐️⭐️⭐️⭐️
 * ☕️ Java ⭐️⭐️⭐️
-* 🐍 Python ⭐️⭐️
+* 🐍 Python ⭐️⭐️ <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact)
 
 ## I'm Currently Learning
 * Javascript
