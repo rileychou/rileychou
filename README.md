@@ -1,7 +1,9 @@
 ![Banner](/lol.png)
 ### Hello! 👋
 
-I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! ⌨️
+I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! ⌨️ \
+![Riley Chou's github stats](https://github-readme-stats.vercel.app/api?username=rileychou&count_private=true&show_icons=true&theme=radical)
+
 
 ## About
 * 🏫 Amador Valley High School
@@ -38,5 +40,3 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
 * 🤵 LinkedIn: [@rileychou](https://www.linkedin.com/in/rileychou/)
-
-![Riley Chou's github stats](https://github-readme-stats.vercel.app/api?username=rileychou&count_private=true&show_icons=true&theme=radical)
