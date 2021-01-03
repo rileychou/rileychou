@@ -8,7 +8,7 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 
 ## About
 * 🏫 Amador Valley High School
-* 🖥 Love Building PCs
+* 🖥 PC Builder
 * 🦈 Ocean Lover
 * 🎮 Self-Proclaimed *pro gamer*
 
@@ -31,7 +31,7 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 * Responsive Web Dev
 
 ## Current Projects
-* Citro Tech's Official Website
+* [Citro Tech's Official Website](https://citrotech.netlify.app/)
 * Citro Tech's Blog!
 
 ## Stuff to build in the future
