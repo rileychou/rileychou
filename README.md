@@ -32,9 +32,12 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 * Arduino & hardware
 * Responsive Web Dev
 
-## Current Projects
+## Projects! 
 * [Citro Tech's Official Website!](https://citrotech.netlify.app/)
-* Citro Tech's Blog!
+
+## I'm currently working on...
+* Citro Tech's Blog
+* Citro Hacks Page
 
 ## Future Projects
 * 🤖 Discord bot
@@ -43,3 +46,5 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
 * 🤵 LinkedIn: [@rileychou](https://www.linkedin.com/in/rileychou/)
+* 📸 Instagram: [@rollinriceballz](https://www.instagram.com/rollinriceballz/)
+* 🕊 Twitter: [@IceShark_91](https://twitter.com/IceShark_91)
