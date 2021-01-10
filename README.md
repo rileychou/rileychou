@@ -19,7 +19,7 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 * 🦖 Ace Coding Club - Instructor
 
 ## Languages 
-* 🌐 HTML/CSS ⭐️⭐️⭐️⭐️
+* 🌐 [HTML/CSS](https://www.freecodecamp.org/certification/rileychou/responsive-web-design) ⭐️⭐️⭐️⭐️
 * ☕️ Java ⭐️⭐️⭐️
 * 🐍 Python ⭐️⭐️ 
 * 🟨 Javascript ⭐️⭐️ 
