@@ -30,14 +30,13 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build thin
 ## I'm Currently Learning
 * Javascript
 * Arduino & hardware
-* Responsive Web Dev
 
 ## Projects! 
 * [Citro Tech's Official Website!](https://citrotech.netlify.app/)
+* [Citro Tech's Blog](https://citroblog.vercel.app/)
 
 ## I'm currently working on...
-* Citro Tech's Blog
-* Citro Hacks Page
+* Citro Hacks
 
 ## Future Projects
 * 🤖 Discord bot
