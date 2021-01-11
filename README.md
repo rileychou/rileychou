@@ -1,7 +1,7 @@
 ![Banner](/lol.png)
-### Hello! 👋
+#### What's up! 👋
 
-I'm [Riley](https://rileychou.github.io/rileywebsite/), and I love to build things with code! ⌨️ \
+I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area and I love all things related to code and tech! ⌨️ \
 \
 ![Riley Chou's github stats](https://github-readme-stats.vercel.app/api?username=rileychou&show_icons=true&theme=radical)
 \
