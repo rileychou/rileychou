@@ -27,7 +27,7 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area a
 * 🟨 Javascript ⭐️⭐️ 
 \
 \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact&theme=vue-dark)
 
 ## I'm Currently Learning
 * Javascript
