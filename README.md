@@ -1,5 +1,5 @@
 ![Banner](/lol.png)
-#### What's up! 👋
+# What's up! 👋
 
 I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area and I love all things related to code and tech! ⌨️ \
 \
@@ -38,11 +38,15 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area a
 * [Citro Tech's Blog](https://citroblog.vercel.app/)
 
 ## I'm currently working on...
-* Citro Hacks
+* Citro Hacks Page
 
 ## Future Projects
 * 🤖 Discord bot
 * 🐽 Personal portfolio v2
+
+## Goals
+* contribute to open source
+* learn frontend frameworks
 
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
