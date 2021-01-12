@@ -3,7 +3,7 @@
 
 I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area and I love all things related to code and tech! ⌨️ \
 \
-![Riley Chou's github stats](https://github-readme-stats.vercel.app/api?username=rileychou&show_icons=true&title_color="006D75")
+![Riley Chou's github stats](https://github-readme-stats.vercel.app/api?username=rileychou&show_icons=true&theme=slateorange)
 \
 (excluding private repos)
 
