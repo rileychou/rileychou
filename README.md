@@ -34,6 +34,7 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area a
 ## Projects! 
 * [Citro Tech's Official Website!](https://citrotech.netlify.app/)
 * [Citro Tech's Blog](https://citroblog.vercel.app/)
+* [DAB](https://devpost.com/software/dab)
 
 ## Future Projects + goals
 * 🤖 Discord bot
