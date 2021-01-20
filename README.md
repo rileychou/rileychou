@@ -38,7 +38,7 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area a
 
 ## Future Projects + goals
 * 🤖 Discord bot
-* 🐽 Personal portfolio v2
+* 🐽 Personal portfolio
 
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
