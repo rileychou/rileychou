@@ -43,5 +43,6 @@ I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area a
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
 * 🤵 LinkedIn: [@rileychou](https://www.linkedin.com/in/rileychou/)
+* 🏆 Devpost: [riley33chou](https://devpost.com/riley33chou?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 * 📸 Instagram: [@rollinriceballz](https://www.instagram.com/rollinriceballz/)
 * 🕊 Twitter: [@IceShark_91](https://twitter.com/IceShark_91)
