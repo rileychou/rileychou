@@ -1,4 +1,4 @@
-![Banner](carbon (5).png)
+![Banner](/header.png)
 # Hey there! 👋
 
 I'm [Riley](https://rileychou.github.io/rileywebsite/), I live in the Bay Area and I love learning all things related to code and tech! ⌨️ \
