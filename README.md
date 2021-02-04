@@ -28,8 +28,8 @@ I'm [Riley](https://rileychou.github.io/), I live in the Bay Area and I love lea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact&title_color=00a9b5&text_color=FFF&icon_color=EA7200&bg_color=000)
 
 ## I'm Currently Learning
-* Javascript
 * Arduino & hardware
+* Implementing JS libraries
 
 ## Projects! 
 * [Citro Tech's Official Website!](https://citrotech.netlify.app/)
