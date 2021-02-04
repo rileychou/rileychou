@@ -21,8 +21,8 @@ I'm [Riley](https://rileychou.github.io/), I live in the Bay Area and I love lea
 ## Languages 
 * 🌐 [HTML/CSS](https://www.freecodecamp.org/certification/rileychou/responsive-web-design) ⭐️⭐️⭐️⭐️
 * ☕️ Java ⭐️⭐️⭐️
-* 🐍 Python ⭐️⭐️ 
 * 🟨 Javascript ⭐️⭐️ 
+* 🐍 Python ⭐️⭐️ 
 \
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileychou&layout=compact&title_color=00a9b5&text_color=FFF&icon_color=EA7200&bg_color=000)
@@ -38,11 +38,12 @@ I'm [Riley](https://rileychou.github.io/), I live in the Bay Area and I love lea
 
 ## Future Projects + goals
 * 🤖 Discord bot
-* 🐽 Personal portfolio
 * 🌦 Weather Station
+* ⚛️ Learn Frameworks like Bootstrap and React
 
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
+* 💻 Website: [riley.is-a.dev](https://riley.is-a.dev)
 * 🤵 LinkedIn: [@rileychou](https://www.linkedin.com/in/rileychou/)
 * 🏆 Devpost: [riley33chou](https://devpost.com/riley33chou?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 * 📸 Instagram: [@rollinriceballz](https://www.instagram.com/rollinriceballz/)
