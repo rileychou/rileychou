@@ -2,18 +2,19 @@
 # Hey there! 👋
 
 I'm [Riley](https://rileychou.github.io/), I live in the Bay Area and I love learning all things related to code and tech! ⌨️ \
+Currently, I am learning JavaScript and organizing Citro Hacks, a very zesty and cool virtual high school hackathon!\
 \
 ![Riley Chou's github stats](https://github-readme-stats.vercel.app/api?username=rileychou&show_icons=true&count_private=true&title_color=00a9b5&text_color=FFF&icon_color=EA7200&bg_color=000)
 
 
 ## About
 * 🏫 Amador Valley High School
-* 🖥 PC Builder
+* 🖥 PC Enthusiast
 * 🦈 Ocean Lover
 * 🎮 Self-Proclaimed *pro gamer*
 
 ## Organizations
-* 🍋 Citro Tech - Director of Tech
+* 🍋 Citro Tech - Director of Tech/Sponsorships
 * 🌊 Ocean Conservancy Club - Co-Founder/Treasurer
 * 🌱 Local Leaders of the 21st Century - Tech Officer
 * 🦖 Ace Coding Club - Instructor
@@ -21,7 +22,7 @@ I'm [Riley](https://rileychou.github.io/), I live in the Bay Area and I love lea
 ## Languages 
 * 🌐 [HTML/CSS](https://www.freecodecamp.org/certification/rileychou/responsive-web-design) ⭐️⭐️⭐️⭐️
 * ☕️ Java ⭐️⭐️⭐️
-* 🟨 Javascript ⭐️⭐️ 
+* 🟨 Javascript ⭐️⭐️⭐️
 * 🐍 Python ⭐️⭐️ 
 \
 \
@@ -30,6 +31,7 @@ I'm [Riley](https://rileychou.github.io/), I live in the Bay Area and I love lea
 ## I'm Currently Learning
 * Arduino & hardware
 * Implementing JS libraries
+* Linux Ricing
 
 ## Projects! 
 * [Citro Tech's Official Website!](https://citrotech.netlify.app/)
@@ -39,7 +41,7 @@ I'm [Riley](https://rileychou.github.io/), I live in the Bay Area and I love lea
 ## Future Projects + goals
 * 🤖 Discord bot
 * 🌦 Weather Station
-* ⚛️ Learn Frameworks like Bootstrap and React
+* ⚛️ Learn Frameworks like Bootstrap, JQuery, React, and NextJS
 
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
