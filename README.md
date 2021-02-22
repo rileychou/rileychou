@@ -37,11 +37,12 @@ Currently, I am learning JavaScript and organizing Citro Hacks, a very zesty and
 * [Citro Tech's Official Website!](https://citrotech.netlify.app/)
 * [Citro Tech's Blog](https://citroblog.vercel.app/)
 * [DAB](https://devpost.com/software/dab)
+* [ikkaku](https://devpost.com/software/ikkaku)
 
 ## Future Projects + goals
-* 🤖 Discord bot
-* 🌦 Weather Station
-* ⚛️ Learn Frameworks like Bootstrap, JQuery, React, and NextJS
+* 🤖 More Discord bots
+* 🌦 Raspberry Pi Weather Station
+* ⚛️ Learn Frameworks like Bootstrap, JQuery, React, NextJS, and NodeJS
 
 ## Contact me!
 * 📧 Email: [riley33chou@gmail.com](mailto:riley33chou@gmail.com)
