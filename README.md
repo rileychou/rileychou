@@ -34,8 +34,8 @@ Currently, I am learning JavaScript and organizing Citro Hacks, a very zesty and
 * Linux Ricing
 
 ## Projects! 
-* [Citro Tech's Official Website!](https://citrotech.netlify.app/)
-* [Citro Tech's Blog](https://citroblog.vercel.app/)
+* [Citro Tech's Official Website!](https://citro.tech/)
+* [Citro Tech's Blog](https://blog.citro.tech/)
 * [DAB](https://devpost.com/software/dab)
 * [ikkaku](https://devpost.com/software/ikkaku)
 
